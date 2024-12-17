@@ -144,3 +144,4 @@ ENV/
 
 .ipynb_checkpoints/
 MNIST_data/
+data/aclImdb/
